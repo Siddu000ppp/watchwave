@@ -843,7 +843,7 @@ msot: "movie",
     },
     {
         id:37,
-        img: "mimg/wind breaker s2.jpg",
+        img: "mimg/Wind Breaker s2.jpg",
         title: "Wind Breaker",
         letter: "w",
         genre1: "action",
